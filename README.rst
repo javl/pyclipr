@@ -18,7 +18,7 @@ Unlike `pyclipper <https://pypi.org/project/pyclipper/>`_, this library is not b
 capability pybind is exploited. This library aims to provide convenient access to the Clipper2 library for Python users,
 especially with its usage in 3D Printing and computer graphics applications.
 
-For further information, see the latest `release notes <https://github.com/drlukeparry/pycork/blob/master/CHANGELOG.md>`_.
+For further information, see the latest `release notes <https://github.com/drlukeparry/pyclipr/blob/main/CHANGELOG.md>`_.
 
 Installation
 *************
